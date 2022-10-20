@@ -9,4 +9,5 @@ Vamos a poder trabajar en equipo de una manera muy sencilla y optimizada, de for
 Cuando acabamos de desarrollar nuestro código, utilizamos Git para mezclar los cambios con los otros compañeros. De forma que el código se mezcla de manera
 perfecta sin generar ningún tipo de fallo y de forma rápida.
 
+Link Taller N°1 
 https://docs.google.com/document/d/1O1inDFVXOyXupwjOqxLT-OWWpnMcx4mK/edit?usp=sharing&ouid=100650874115266223195&rtpof=true&sd=true
